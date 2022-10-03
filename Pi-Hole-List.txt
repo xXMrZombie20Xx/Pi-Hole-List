@@ -4,8 +4,5 @@
 0.0.0.0 d.reddit.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
